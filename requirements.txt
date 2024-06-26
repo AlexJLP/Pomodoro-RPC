@@ -8,7 +8,7 @@ chardet==4.0.0
 discord-py-slash-command==1.2.0
 discord.py==1.7.2
 discordrpc==0.0.0
-idna==3.2
+idna==3.7
 jinxed==1.1.0
 multidict==5.1.0
 pypresence==4.2.0
