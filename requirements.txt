@@ -1,4 +1,4 @@
-aiohttp==3.9.4
+aiohttp==3.10.2
 ansicon==1.89.0
 art==5.2
 async-timeout==3.0.1
@@ -8,7 +8,7 @@ chardet==4.0.0
 discord-py-slash-command==1.2.0
 discord.py==1.7.2
 discordrpc==0.0.0
-idna==3.2
+idna==3.7
 jinxed==1.1.0
 multidict==5.1.0
 pypresence==4.2.0
